@@ -1,5 +1,5 @@
 ![DIFUSE Project at Dartmouth College. Funded by NSF IUSE1917002](https://github.com/difuse-dartmouth/.github/blob/362f6cb322fbde369a0a806404b6359095cce303/profile/DIFUSE%20splash.png)
-[![About DIFUSE Button](https://github.dev/difuse-dartmouth/.github/blob/7bf9fdc10a237d371b0635692b6b33212a405995/profile/about_button.png)](https://github.dev/difuse-dartmouth/.github/blob/973041ed8327940376e19e6bce4bd99fe4989341/profile/about.md)
+[![About DIFUSE Button](https://github.dev/difuse-dartmouth/.github/blob/973041ed8327940376e19e6bce4bd99fe4989341/profile/about_button.png)](https://github.dev/difuse-dartmouth/.github/blob/973041ed8327940376e19e6bce4bd99fe4989341/profile/about.md)
 
 
 <!--
