@@ -1,7 +1,7 @@
 # DIFUSE Team Members 
 Supported by NSF IUSE-1917002
 
-| Name                 | Year        | Project(s)                                  |
+| Name                 | Grad Year   | Project(s)                                  |
 |----------------------|-------------|---------------------------------------------|
 | Pierre Desvallons    | 2021        | PSYC 1                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
