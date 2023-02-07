@@ -8,7 +8,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 For the last item, we identified six areas of data science that we use to label projects:  aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data.
 
-![Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](https://github.com/difuse-dartmouth/.github/blob/fe2914238c3ad41cc6bb99fa469ce875e523b78a/profile/DS%20areas.png "Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
+![Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](https://github.com/difuse-dartmouth/.github/blob/de58bc3aa85e7b75b0e04d022582e4743e15508c/profile/DS-areas.png "Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
 
 The visual "badge" is based off of the following template:
 ~[Visual badge temple](https://github.com/difuse-dartmouth/.github/blob/fe2914238c3ad41cc6bb99fa469ce875e523b78a/profile/badge-template.png "Visual badge template")
