@@ -11,6 +11,7 @@ For the last item, we identified six areas of data science that we use to label 
 ![Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](DS-areas.png "Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
 
 The visual "badge" is based off of the following template:
+
 ![Visual badge template](badge-template.png "Visual badge template")
 
 In the circle to the left you will find an icon representing the tool used, the next grey bar shows the level of the course, and the next indicates the time required by the student -  one dark grey bar is a short amount of time, two is moderate, and three is long.  The remaining pieces of the chain are indications of the six data science areas.  For a given module, the areas that are _not_ covered have the color removed, leaving the ones covered visible.  
