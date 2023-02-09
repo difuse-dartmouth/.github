@@ -17,6 +17,7 @@ The visual "badge" is based off of the following template:
 In the circle to the left you will find an icon representing the tool used, the next grey bar shows the level of the course, and the next indicates the time required by the student -  one dark grey bar is a short amount of time, two is moderate, and three is long.  The remaining pieces of the chain are indications of the six data science areas.  For a given module, the areas that are _not_ covered have the color removed, leaving the ones covered visible.  
 
 For example, here is the badge for the module in Introduction to Scientific Computing:
+
 ![Medium length module for an introductory course using MATLAB and covering analyzing, visualizing data and drawing conclusions.](https://github.com/difuse-dartmouth/21X_ENGS20/blob/aa4dccf2b03d445d37adeee735e9dfb280473103/ENGS%2020%20badge.png "Medium length module for an introductory course using MATLAB and covering analyzing, visualizing data and drawing conclusions.")
 
 The tool circle shows the icon for MATLAB, the bolded text in the next block indicates the course is introductory, and the two dark grey bars indicate the student time commitment is moderate.  The data science areas of analyzing data, visualizing data, and drawing conclusions are covered in the module as indicated by the colored blocks while the other areas are not covered as they have been made transparent.
