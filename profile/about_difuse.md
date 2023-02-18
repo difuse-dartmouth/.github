@@ -1,4 +1,11 @@
+# About DIFUSE
+
+## Overview
+
+## Investigators
+
 # DIFUSE Team Members 
+
 Supported by NSF IUSE-1917002
 
 | Name                 | Class Year  | Project(s)                                  |
