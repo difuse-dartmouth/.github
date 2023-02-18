@@ -18,7 +18,7 @@ Introduction to Scientific Computing (ENGS 20) is a course that introduces stude
 
 <img src="https://github.com/difuse-dartmouth/20F-PSYC-1/blob/e935a9eaeac320f278034ea6ca0e5c2e557e2071/PSYC1_badge.png" alt="DIFUSE Data Science Module.  Psychology 1: Introductory Psychology.  Professor Petra Talia Wheatley, Dartmouth College.  Funded by NSF IUSE1917002" style="width: 55vw; min-width: 330px;">
 
-## Sociology 34: Health Disparities
+## <a href="https://github.com/difuse-dartmouth/SOCY34_F21">Sociology 34: Health Disparities</a>
 
 Health Disparities (Sociology 34) explores the interrelations between health outcomes and key socialogical concepts such as race, wealth, gender, and other social determinants of health. This module provides a portal for students to explore these data easily both visually and statistically. The four components help students explore relationships between health outcomes and different social determinants of health in the State of Texas through visualizations of bivariate data that allow them to generate and/or test hypotheses. This is coupled with a regression tool that allows a deeper statistical interrogation. The module covers data science areas of analyzing data, visualizing data, drawing conclusions, and communicating data.
 
