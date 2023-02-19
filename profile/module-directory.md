@@ -16,6 +16,8 @@ Introduction to Scientific Computing (ENGS 20) is a course that introduces stude
 
 ## Psychology 1: Introduction to Psychology
 
+
+
 <img src="https://github.com/difuse-dartmouth/20F-PSYC-1/blob/e935a9eaeac320f278034ea6ca0e5c2e557e2071/PSYC1_badge.png" alt="DIFUSE Data Science Module.  Psychology 1: Introductory Psychology.  Professor Petra Talia Wheatley, Dartmouth College.  Funded by NSF IUSE1917002" style="width: 55vw; min-width: 330px;">
 
 ## <a href="https://github.com/difuse-dartmouth/SOCY34_F21">Sociology 34: Health Disparities</a>
