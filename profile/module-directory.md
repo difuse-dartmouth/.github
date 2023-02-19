@@ -8,7 +8,13 @@ Environmental Change (EARS 6) is an introductory course in Earth Sciences where 
 
 <img src="https://github.com/difuse-dartmouth/S20_EARS6/blob/d9f35204207e63c7a7c10a46bab9604f31f7b5d3/EARS%206%20badge.png" style="width: 55vw; min-width: 330px;">
 
-## Engineering 20: Introduction to Scientific Computing
+## <a href="https://github.com/difuse-dartmouth/EEE-350_F22">Electrical Engineering 350: Random Signal Analysis</a>
+
+Random Signal Analysis introduces the concepts of probability and random signals with application to problems in engineering. As many of the students in the class are interested in careers in aerospace, the module focuses on airline data and appications to decision making in the airline industry. In the first part of the module, students engage in exploratory data analysis using univariate and bivariate analyses to generate hypotheses about factors that contribute to flight delays. In the second part, students assume the role of a consultant employed by Phoenix Sky Harbor airport to investigate the role of delays in the performance of airlines. At the end of Part 2, students make an informed recommendation for Sky Harbor based on the output of various machine learning models they implement. The module uses MATLAB as a platform and covers the data science topics of analyzing data, visualizing data, drawing conclusions, and communicating data.
+
+<img src="https://github.com/difuse-dartmouth/EEE-350_F22/blob/b6fd2e640216d7c4e5ea222d44f3501b520616e6/EEE-350-badge.png" style="width: 55vw; min-width: 330 px;">
+
+## <a href="https://github.com/difuse-dartmouth/ENGS-20_21X">Engineering 20: Introduction to Scientific Computing</a>
 
 Introduction to Scientific Computing (ENGS 20) is a course that introduces students to programming in C and MATLAB as well as the foundations of scientific computing. This module is focussed on the MATLAB portion of the class. USING MATLAB, in this module students address questions about a model of the relationship between glucose and insulin in humans. To do so, students explore the use of numerical solvers for ODE and systems of ODE, both by coding Euler’s method ‘by hand’ as well as by using built-in solvers. Students use published data to fit parameters of a model and make predictions with the numerical solutions. The module covers data science areas of analyzing data, visualizing data, and drawing conclusions.
 
