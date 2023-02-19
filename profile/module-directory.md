@@ -2,7 +2,7 @@
 
 ## Anthropology 6: Introduction to Biological Anthropology 
 
-## Earth Sciences 6: Environmental Change
+## <a href="https://github.com/difuse-dartmouth/EARS6_S20">Earth Sciences 6: Environmental Change</a>
 
 Environmental Change (EARS 6) is an introductory course in Earth Sciences where students explore the factors that impact environmental change and their consequences. The module provides students with the opportunity to collect and analyze their own data as well as analyze publicly available climate and solar data sources. Students collect and analyze solar incidence angles over time to evaluate their own hypotheses, coupling this with the additional data analysis to draw conclusions about environmental change. This module uses excel as its main tool and engages students in data collection, analysis, visualization, and drawing conclusions.
 
