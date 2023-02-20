@@ -1,4 +1,5 @@
 # Module Directory
+This page lists all data science module repositories.  Each title is linked to the appropriate repo and is followed by a brief description and a badge.  To interpret the badges see the ["how to use this site" page](profile/howto.md).
 
 ## Anthropology 6: Introduction to Biological Anthropology 
 
