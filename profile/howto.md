@@ -1,6 +1,6 @@
 # How to use the dartmouth-difuse collection of repositories
 
-This set of repositories consists of more than a dozen modules that introduce some aspect(s) of data science into different courses.  The broad aim of all the modules is to stimulate interest in data science in students and to expose them to how data science can be used in different fields.  As you explore these modules, we have tried to provide quick information to allow you to assess the contents and scope of the module so you can focus on the ones that are most salient to your goals. For each module we provide a visual indication of these variables that include:
+This set of repositories consists of more than a dozen modules that introduce some aspect(s) of data science into different introductory courses in STEM and the social sciences.  The broad aim of all the modules is to stimulate interest in data science in students and to expose them to how data science can be used in different fields.  As you explore these modules, we have tried to provide quick information to allow you to assess the contents and scope of the module so you can focus on the ones that are most salient to your goals. For each module we provide a visual indication of these variables that include:
 - The type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools)
 - What is the level of the course that the module was designed for (Introductory, Mid-level, Advanced)
 - The length of the module (short, medium, or long)
