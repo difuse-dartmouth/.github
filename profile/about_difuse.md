@@ -29,7 +29,7 @@ Laura is a professor of engineering and senior associate dean of faculty develop
 | Name                 | Class Year  | Project(s)                                  |
 |----------------------|-------------|---------------------------------------------|
 | Sabrina Barton       | 2023        | ANTH 20                                     |
-| Elisabeth Baumann    | 2022        | EARS 6                                      |
+| Elisabeth Baumann    | 2022        | EARS 6, GEOG 36                             |
 | Andrew Bean          | 2023        | ENGS 37, Data Analysis, Bio-Satellite       |
 | James Busch          | GR          | ASTR 15, ENVS 6                             |
 | Sonal Butala         | 2022        |                                             |
