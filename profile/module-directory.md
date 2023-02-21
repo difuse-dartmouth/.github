@@ -21,6 +21,12 @@ Introduction to Scientific Computing (ENGS 20) is a course that introduces stude
 
 <img src="https://github.com/difuse-dartmouth/21X_ENGS20/blob/aa4dccf2b03d445d37adeee735e9dfb280473103/ENGS%2020%20badge.png" alt="Medium length module for an introductory course using MATLAB and covering analyzing, visualizing data and drawing conclusions." style="width: 55vw; min-width: 330px;">
 
+## <a href="https://github.com/difuse-dartmouth/GEOG36_F20">Geography 36: Climate Extremes on a Warming Planet</a>
+
+Climate Extremes On A Warming Planet looks at drought, famine, floods, landslides and other extreme weather events through the lens of climate change. Students do some coding in python to facilitate analysis and understanding of climate data sets that relate to extreme events. Before this module, the course had a series of python tutorials for students but the examples were not related to the course. This module redesigned the python notebooks to teach coding through manipulation and analysis of climate data sets, linking to course topics as the term progressed. The module covers data science areas of analyzing data, visualizing data, and drawing conclusions.
+
+<img src="https://github.com/difuse-dartmouth/GEOG36_F20/blob/fe65c613882c129f6dd978c31cc2cf43ef0cc16f/additional/repository_assets/GEOG-36-Badge.png" alt="Medium length module for an introductory course using python and covering analyzing, visualizing data and drawing conclusions." style="width: 55vw; min-width: 330px;">
+
 ## Psychology 1: Introduction to Psychology
 
 
