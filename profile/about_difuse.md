@@ -52,7 +52,7 @@ Laura is a professor of engineering and senior associate dean of faculty develop
 | Ayobami Ogunmolasuyi | GR          | PSYC 1                                      |
 | Muna Onuoha          | 2025        | EGEE 438, Github Team                       |
 | Monika Roznere       | GR          | ENGS 37,                                    |
-| Logan Sankey         | 2023        | ANTH 6, ANTH  20,                           |
+| Logan Sankey         | 2020        | ANTH 6, ANTH  20,                           |
 | Garrett Scott        | 2022        | ASTR 15                                     |
 | William Toth         | 2023        | PSYC 1                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
