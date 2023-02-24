@@ -5,7 +5,8 @@ This set of repositories consists of more than a dozen modules that introduce so
 ## Accessing a repository
 When you open a link to a repository, you will see something like this:
 
-![Sample opening page for a DIFUSE module](profile/images/DIFUSE-sample-page.png "Sample opening page for a DIFUSE module")
+<img src="https://github.com/difuse-dartmouth/.github/blob/6f2c62ac71f4767c64f667573d72e30509fcd18e/profile/images/DIFUSE-sample-page.png" alt="Sample opening page for a DIFUSE module." style="width: 55vw" align="center">
+
 At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.  The image identifies the project, the instructor, and the course the module is for.  Scrolling down, you'll see a brief module description, the creative commons license that applies to the module, a badge, and a link to the module materials.
 
 ## Badges indicate module features
@@ -18,7 +19,7 @@ As you explore these modules, we have tried to provide quick information to allo
 
 For the last item, we identified six areas of data science that we use to label projects:  aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data.
 
-![Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](profile/images/DS-areas.png "Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
+![Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](https://github.com/difuse-dartmouth/.github/blob/6f2c62ac71f4767c64f667573d72e30509fcd18e/profile/images/DS-areas.png "Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
 
 The visual "badge" is based off of the following template:
 
