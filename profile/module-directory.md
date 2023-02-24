@@ -1,7 +1,13 @@
 # Module Directory
 This page lists all data science module repositories.  Each title is linked to the appropriate repo and is followed by a brief description and a badge.  To interpret the badges see the ["how to use this site" page](profile/howto.md).
 
-## Anthropology 6: Introduction to Biological Anthropology 
+## Anthropology 6: Introduction to Biological Anthropology \
+
+## <a href="https://github.com/difuse-dartmouth/ASTR15_W21">Astronomy 15: Stars and the Milky Way</a>
+
+tars and the Milky Way is an introductory astronomy course in the Physics and Astronomy Department. It is a general introduction to astronomy and assumes no particular student background but instructors expect that about a third of students will have some python or coding background. The module aims to introduce students to the way Astrophysicists manipulate data and perform analyses with an emphasis on data visualization and plot interpretation. Students use a sequence of python notebooks to explore, analyze astronomical data. This module uses python notebooks as its main tool and engages students in data analysis, visualization, and drawing conclusions.
+
+<img src="https://github.com/difuse-dartmouth/ASTR15_W21/blob/09b7e05b54d03f80ca27559a8d503e6631693a3f/repository_assets/ASTR-15-Badge.png" style="width: 55vw; min-width: 330px;">
 
 ## <a href="https://github.com/difuse-dartmouth/EARS6_S20">Earth Sciences 6: Environmental Change</a>
 
