@@ -1,6 +1,6 @@
 ![DIFUSE Project at Dartmouth College. Funded by NSF IUSE1917002](https://github.com/difuse-dartmouth/.github/blob/362f6cb322fbde369a0a806404b6359095cce303/profile/DIFUSE%20splash.png)
 
-<a href="https://github.com/difuse-dartmouth/.github/blob/26b558bed1ae6dde842c875f8e38259cba4ade04/profile/howto_button.png"><img src="profile/howto_button.png" alt="How to use this collection" align="left" style="width:4in"></a>
+<a href="https://github.com/difuse-dartmouth/.github/blob/5d1a94b158d48f4fb1edd60d4ea8dd8935ad268f/profile/images/how_to_button.png"><img src="profile/howto_button.png" alt="How to use this collection" align="left" style="width:4in"></a>
 <a href="https://github.com/difuse-dartmouth/.github/blob/12550e961a77640aa56eef143b5973dfd0192998/profile/module-directory.md"><img src="profile/directory-button.png" alt="Module Directory" align="left" style="width:2in"></a>
 <a href="https://github.com/difuse-dartmouth/.github/blob/7aa11ea1098e1ed8d1af314a21ec589602a3f640/profile/about_difuse.md"><img src="profile/about_button.png" alt="About DIFUSE" align="left" style="width:2in"></a>
 
