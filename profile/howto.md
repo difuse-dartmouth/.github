@@ -8,7 +8,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 
 ## Accessing a repository
-[![Play the accessing repository video](profile/images/walkthrough-repo-icon.png)](https://youtu.be/cS_-nVHr6q4)
+<a href="https://youtu.be/cS_-nVHr6q4" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3a381be0690f4be76126c41f628749ced7f3fea0/profile/images/walkthrough-repo-icon.png" style="width:2in" alt="Play introductory video"></a>
 
 When you open a link to a repository, you will see something like this:
 
@@ -17,7 +17,7 @@ When you open a link to a repository, you will see something like this:
 At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.  The image identifies the project, the instructor, and the course the module is for.  Scrolling down, you'll see a brief module description, the creative commons license that applies to the module, a badge, and a link to the module materials.
 
 ## Badges indicate module features
-[![Play the badges video](profile/images/walkthrough-badges-icon.png)](https://youtu.be/CyeeeJSTGis)
+<a href="https://youtu.be/CyeeeJSTGis" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3a381be0690f4be76126c41f628749ced7f3fea0/profile/images/walkthrough-badges-icon.png" style="width:2in" alt="Play badges video"></a>
 
 As you explore these modules, we have tried to provide quick information to allow you to assess the contents and scope of the module so you can focus on the ones that are most salient to your goals. For each module we provide a visual indication of these variables that include:
 - The type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools)
