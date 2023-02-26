@@ -44,7 +44,7 @@ For example, here is the badge for the module in Introduction to Scientific Comp
 The tool circle shows the icon for MATLAB, the bolded text in the next block indicates the course is introductory, and the two dark grey bars indicate the student time commitment is moderate.  The data science areas of analyzing data, visualizing data, and drawing conclusions are covered in the module as indicated by the colored blocks while the other areas are not covered as they have been made transparent.
 
 ## Module materials page
-[![Play the module materials video](profile/images/walkthrough-materials-icon.png)]([https://youtu.be/CyeeeJSTGis)](https://youtu.be/5BbLNQKHWwk)
+<a href="https://youtu.be/5BbLNQKHWwk" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3c958c86ba876025eb5e3109933014e0276d81d6/profile/images/walkthrough-materials-icon.png" alt="Play the module materials page video" style="width:2in"></a>
 
 Clicking the module materials link takes you to a different README file in the _completed_module_ subdirectory.  For each module, you will see several sections.
 ### Primary Objectives
