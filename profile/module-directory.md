@@ -1,13 +1,13 @@
 # Module Directory
 This page lists all data science module repositories.  Each title is linked to the appropriate repo and is followed by a brief description and a badge.  To interpret the badges see the ["how to use this site" page](profile/howto.md).
 
-## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology 
+## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
   
 
 
 ## <a href="https://github.com/difuse-dartmouth/ASTR15_W21">Astronomy 15: Stars and the Milky Way</a>
 
-tars and the Milky Way is an introductory astronomy course in the Physics and Astronomy Department. It is a general introduction to astronomy and assumes no particular student background but instructors expect that about a third of students will have some python or coding background. The module aims to introduce students to the way Astrophysicists manipulate data and perform analyses with an emphasis on data visualization and plot interpretation. Students use a sequence of python notebooks to explore, analyze astronomical data. This module uses python notebooks as its main tool and engages students in data analysis, visualization, and drawing conclusions.
+Stars and the Milky Way is an introductory astronomy course in the Physics and Astronomy Department. It is a general introduction to astronomy and assumes no particular student background but instructors expect that about a third of students will have some python or coding background. The module aims to introduce students to the way Astrophysicists manipulate data and perform analyses with an emphasis on data visualization and plot interpretation. Students use a sequence of python notebooks to explore, analyze astronomical data. This module uses python notebooks as its main tool and engages students in data analysis, visualization, and drawing conclusions.
 
 <img src="https://github.com/difuse-dartmouth/ASTR15_W21/blob/09b7e05b54d03f80ca27559a8d503e6631693a3f/repository_assets/ASTR-15-Badge.png" style="width: 55vw; min-width: 330px;">
 
@@ -35,12 +35,12 @@ Climate Extremes On A Warming Planet looks at drought, famine, floods, landslide
 
 <img src="https://github.com/difuse-dartmouth/GEOG36_F20/blob/fe65c613882c129f6dd978c31cc2cf43ef0cc16f/additional/repository_assets/GEOG-36-Badge.png" alt="Medium length module for an introductory course using python and covering analyzing, visualizing data and drawing conclusions." style="width: 55vw; min-width: 330px;">
 
-## Psychology 1: Introduction to Psychology
+<!--## Psychology 1: Introduction to Psychology
 
 
 
 <img src="https://github.com/difuse-dartmouth/20F-PSYC-1/blob/e935a9eaeac320f278034ea6ca0e5c2e557e2071/PSYC1_badge.png" alt="DIFUSE Data Science Module.  Psychology 1: Introductory Psychology.  Professor Petra Talia Wheatley, Dartmouth College.  Funded by NSF IUSE1917002" style="width: 55vw; min-width: 330px;">
-
+-->
 ## <a href="https://github.com/difuse-dartmouth/SOCY34_F21">Sociology 34: Health Disparities</a>
 
 Health Disparities (Sociology 34) explores the interrelations between health outcomes and key socialogical concepts such as race, wealth, gender, and other social determinants of health. This module provides a portal for students to explore these data easily both visually and statistically. The four components help students explore relationships between health outcomes and different social determinants of health in the State of Texas through visualizations of bivariate data that allow them to generate and/or test hypotheses. This is coupled with a regression tool that allows a deeper statistical interrogation. The module covers data science areas of analyzing data, visualizing data, drawing conclusions, and communicating data.
