@@ -1,8 +1,15 @@
 # How to use the dartmouth-difuse collection of repositories
 
-This set of repositories consists of more than a dozen modules that introduce some aspect(s) of data science into different introductory courses in STEM and the social sciences.  The broad aim of all the modules is to stimulate interest in data science in students and to expose them to how data science can be used in different fields.  
+This set of repositories consists of more than a dozen modules that introduce some aspect(s) of data science into different introductory courses in STEM and the social sciences.  The broad aim of all the modules is to stimulate interest in data science in students and to expose them to how data science can be used in different fields.  There are three sections below - accessing a repository, badges indicating module features, and accessing the module materials page.  Each of these has a video introduction that mirrors the text.
+
+
+
+
+
 
 ## Accessing a repository
+[![Play the accessing repository video](profile/images/walkthrough-repo-icon.png)](https://youtu.be/cS_-nVHr6q4)
+
 When you open a link to a repository, you will see something like this:
 
 <img src="https://github.com/difuse-dartmouth/.github/blob/6f2c62ac71f4767c64f667573d72e30509fcd18e/profile/images/DIFUSE-sample-page.png" alt="Sample opening page for a DIFUSE module." style="width: 55vw" align="center">
@@ -10,6 +17,7 @@ When you open a link to a repository, you will see something like this:
 At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.  The image identifies the project, the instructor, and the course the module is for.  Scrolling down, you'll see a brief module description, the creative commons license that applies to the module, a badge, and a link to the module materials.
 
 ## Badges indicate module features
+[![Play the badges video](profile/images/walkthrough-badges-icon.png)](https://youtu.be/CyeeeJSTGis)
 
 As you explore these modules, we have tried to provide quick information to allow you to assess the contents and scope of the module so you can focus on the ones that are most salient to your goals. For each module we provide a visual indication of these variables that include:
 - The type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools)
@@ -36,6 +44,7 @@ For example, here is the badge for the module in Introduction to Scientific Comp
 The tool circle shows the icon for MATLAB, the bolded text in the next block indicates the course is introductory, and the two dark grey bars indicate the student time commitment is moderate.  The data science areas of analyzing data, visualizing data, and drawing conclusions are covered in the module as indicated by the colored blocks while the other areas are not covered as they have been made transparent.
 
 ## Module materials page
+[![Play the module materials video](profile/images/walkthrough-materials-icon.png)]([https://youtu.be/CyeeeJSTGis)](https://youtu.be/5BbLNQKHWwk)
 
 Clicking the module materials link takes you to a different README file in the _completed_module_ subdirectory.  For each module, you will see several sections.
 ### Primary Objectives
