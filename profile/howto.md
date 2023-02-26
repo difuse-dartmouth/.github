@@ -7,17 +7,15 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 
 
-## Accessing a repository
-<a href="https://youtu.be/cS_-nVHr6q4" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3a381be0690f4be76126c41f628749ced7f3fea0/profile/images/walkthrough-repo-icon.png" style="width:2in" alt="Play introductory video"></a>
+## Accessing a repository <a href="https://youtu.be/cS_-nVHr6q4" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3a381be0690f4be76126c41f628749ced7f3fea0/profile/images/walkthrough-repo-icon.png" style="width:2in" alt="Play introductory video" align="left"></a>
 
-When you open a link to a repository, you will see something like this:
+When you open a link to a repository you will see something like the image below, which comes from a template we use for all of our module repositories.
 
 <img src="https://github.com/difuse-dartmouth/.github/blob/6f2c62ac71f4767c64f667573d72e30509fcd18e/profile/images/DIFUSE-sample-page.png" alt="Sample opening page for a DIFUSE module." style="width: 55vw" align="center">
 
 At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.  The image identifies the project, the instructor, and the course the module is for.  Scrolling down, you'll see a brief module description, the creative commons license that applies to the module, a badge, and a link to the module materials.
 
-## Badges indicate module features
-<a href="https://youtu.be/CyeeeJSTGis" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3a381be0690f4be76126c41f628749ced7f3fea0/profile/images/walkthrough-badges-icon.png" style="width:2in" alt="Play badges video"></a>
+## Badges indicate module features <a href="https://youtu.be/CyeeeJSTGis" target="_blank"><img src="https://github.com/difuse-dartmouth/.github/blob/3a381be0690f4be76126c41f628749ced7f3fea0/profile/images/walkthrough-badges-icon.png" style="width:2in" alt="Play badges video" align="left"></a>
 
 As you explore these modules, we have tried to provide quick information to allow you to assess the contents and scope of the module so you can focus on the ones that are most salient to your goals. For each module we provide a visual indication of these variables that include:
 - The type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools)
@@ -34,6 +32,7 @@ The visual "badge" is based off of the following template:
 
 ![Visual badge template](badge-template.png "Visual badge template")
 
+
 In the circle to the left you will find an icon representing the tool used, the next grey bar shows the level of the course, and the next indicates the time required by the student -  one dark grey bar is a short amount of time, two is moderate, and three is long.  The remaining pieces of the chain are indications of the six data science areas.  For a given module, the areas that are _not_ covered have the color removed, leaving the ones covered visible.  
 
 For example, here is the badge for the module in Introduction to Scientific Computing:
@@ -43,8 +42,7 @@ For example, here is the badge for the module in Introduction to Scientific Comp
 
 The tool circle shows the icon for MATLAB, the bolded text in the next block indicates the course is introductory, and the two dark grey bars indicate the student time commitment is moderate.  The data science areas of analyzing data, visualizing data, and drawing conclusions are covered in the module as indicated by the colored blocks while the other areas are not covered as they have been made transparent.
 
-## Module materials page
-<a href="https://youtu.be/5BbLNQKHWwk" target="_blank" rel="noopener noreferrer"><img src="https://github.com/difuse-dartmouth/.github/blob/3c958c86ba876025eb5e3109933014e0276d81d6/profile/images/walkthrough-materials-icon.png" alt="Play the module materials page video" style="width:2in"></a>
+## Module materials page <a href="https://youtu.be/5BbLNQKHWwk" target="_blank" rel="noopener noreferrer"><img src="https://github.com/difuse-dartmouth/.github/blob/3c958c86ba876025eb5e3109933014e0276d81d6/profile/images/walkthrough-materials-icon.png" alt="Play the module materials page video" style="width:2in" align="left"></a>
 
 Clicking the module materials link takes you to a different README file in the _completed_module_ subdirectory.  For each module, you will see several sections.
 ### Primary Objectives
