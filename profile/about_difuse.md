@@ -2,7 +2,7 @@
 
 ## Overview
 
-DIFUSE is a National Science Foundation (NSF)-funded project (NSF IUSE-1917002) at <a href="www.dartmouth.edu">Dartmouth College</a> aimed at creating opportunities for undergraduates to learn and use data science in introductory STEM courses and beyond.  We work with undergraduates, PhD students, and faculty to develop data science "modules” to integrate into course curriculum.  We offer opportunities for undergraduate and PhD students to apply data science and data visualization through Internships and work in the <a href="dali.dartmouth.edu">DALI Lab</a>.  The aim of the DIFUSE project is to help integrate data science modules into introductory STEM and social science curriculum at Dartmouth College.
+DIFUSE is a National Science Foundation (NSF)-funded project (NSF IUSE-1917002) at <a href="https://www.dartmouth.edu">Dartmouth College</a> aimed at creating opportunities for undergraduates to learn and use data science in introductory STEM courses and beyond.  We work with undergraduates, PhD students, and faculty to develop data science "modules” to integrate into course curriculum.  We offer opportunities for undergraduate and PhD students to apply data science and data visualization through Internships and work in the <a href="https://dali.dartmouth.edu">DALI Lab</a>.  The aim of the DIFUSE project is to help integrate data science modules into introductory STEM and social science curriculum at Dartmouth College.
 
 You can contact the DIFUSE team at <a mailto="difuse@dartmouth.edu">difuse@dartmouth.edu</a>.
 
@@ -47,7 +47,7 @@ Laura is a professor of engineering and senior associate dean of faculty develop
 | Sarah Lee            | GR          | EARS 6                                      |
 | Benjamin Levesque    | 2024        | EEE 350, Github Team                        |
 | Quang Nguyen         | GR          | PSYC 1                                      |
-| Emma Nguyen          |             | Bio-Satelitte                               |
+| Emma Nguyen          | 2025        | Bio-Satelitte                               |
 | Clement Nyanhonho    | GR          | MATH 23                                     |
 | Ayobami Ogunmolasuyi | GR          | PSYC 1                                      |
 | Muna Onuoha          | 2025        | EGEE 438, Github Team                       |
