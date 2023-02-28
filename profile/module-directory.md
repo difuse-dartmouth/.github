@@ -1,10 +1,10 @@
 # Module Directory
-This page lists all data science module repositories.  Each title is linked to the appropriate repo and is followed by a brief description and a badge.  To interpret the badges see the ["how to use this site" page](profile/howto.md).
+This page lists all data science module repositories.  Each title is linked to the appropriate repo and is followed by a brief description and a badge.  To interpret the badges see the ["how to use this site" page](https://github.com/difuse-dartmouth/.github/blob/main/profile/howto.md#badges-indicate-module-features-).
 
-## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
+<!--## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
   
 
-
+-->
 ## <a href="https://github.com/difuse-dartmouth/ASTR15_W21">Astronomy 15: Stars and the Milky Way</a>
 
 Stars and the Milky Way is an introductory astronomy course in the Physics and Astronomy Department. It is a general introduction to astronomy and assumes no particular student background but instructors expect that about a third of students will have some python or coding background. The module aims to introduce students to the way Astrophysicists manipulate data and perform analyses with an emphasis on data visualization and plot interpretation. Students use a sequence of python notebooks to explore, analyze astronomical data. This module uses python notebooks as its main tool and engages students in data analysis, visualization, and drawing conclusions.
