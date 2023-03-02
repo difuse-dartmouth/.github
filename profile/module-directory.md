@@ -5,11 +5,19 @@ This page lists all data science module repositories.  Each title is linked to t
 
 | Course Code | Course Name | 
 |-------------|-------------|
+|ANTH 6 | |
+|ANTH 40 | |
+|ANTH 20 | |
 |ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> |
 |EARS 6 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#earth-sciences-6-environmental-change">Environmental Change</a> |
 |EEE 350| <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>|
 | ENGS 20 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#engineering-20-introduction-to-scientific-computing">Introduction to Scientific Computing|
-  
+|ENGS 37| |
+|ENGS 93| |
+|BIOL 16 | |
+|GEOG 36 | Climate extremes on a warming planet |
+|PSYC 1 |Introduction to Psychology |
+|SOCY 34 | Health Disparities |
 
 
 <!--## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
