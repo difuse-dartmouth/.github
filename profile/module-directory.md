@@ -1,6 +1,15 @@
 # Module Directory
 This page lists all data science module repositories.  Each title is linked to the appropriate repo and is followed by a brief description and a badge.  To interpret the badges see the ["how to use this site" page](https://github.com/difuse-dartmouth/.github/blob/main/profile/howto.md#badges-indicate-module-features-).
 
+## Directory for the Directory
+
+| Course Code | Course Name | 
+|-------------|-------------|
+|ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/eff25eac26a93400d36a64fc4b615d3210f1f0b0/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> |
+|EARS 6 | <a href="https://github.com/difuse-dartmouth/.github/blob/eff25eac26a93400d36a64fc4b615d3210f1f0b0/profile/module-directory.md#earth-sciences-6-environmental-change">Environmental Change</a> |
+|EEE 350| <a href="https://github.com/difuse-dartmouth/.github/blob/eff25eac26a93400d36a64fc4b615d3210f1f0b0/profile/module-directory.md#eee-350-random signal analysis">Random Signal Analysis</a>|
+
+
 <!--## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
   
 
