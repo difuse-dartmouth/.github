@@ -5,9 +5,11 @@ This page lists all data science module repositories.  Each title is linked to t
 
 | Course Code | Course Name | 
 |-------------|-------------|
-|ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/eff25eac26a93400d36a64fc4b615d3210f1f0b0/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> |
-|EARS 6 | <a href="https://github.com/difuse-dartmouth/.github/blob/eff25eac26a93400d36a64fc4b615d3210f1f0b0/profile/module-directory.md#earth-sciences-6-environmental-change">Environmental Change</a> |
-|EEE 350| <a href="https://github.com/difuse-dartmouth/.github/blob/eff25eac26a93400d36a64fc4b615d3210f1f0b0/profile/module-directory.md#eee-350-random signal analysis">Random Signal Analysis</a>|
+|ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> |
+|EARS 6 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#earth-sciences-6-environmental-change">Environmental Change</a> |
+|EEE 350| <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>|
+| ENGS 20 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#engineering-20-introduction-to-scientific-computing">Introduction to Scientific Computing|
+  
 
 
 <!--## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
