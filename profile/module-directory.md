@@ -5,10 +5,10 @@ This page lists all data science module repositories.  Each title is linked to t
 
 | Course Code | Course Name | Course Code | Course Name |
 |-------------|-------------|-------------|-------------|
-|ANTH 6 | |  ENGS 20 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#engineering-20-introduction-to-scientific-computing">Introduction to Scientific Computing| 
-|ANTH 40 | | ENGS 37| | 
-|ANTH 20 | | ENGS 93| | 
-|ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> | BIOL 16 | | 
+|ANTH 6 | Introduction to Biological Anthropology|  ENGS 20 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#engineering-20-introduction-to-scientific-computing">Introduction to Scientific Computing| 
+|ANTH 40 |Human Functional Anatomy | ENGS 37| Introduction to Environmental Engineering| 
+|ANTH 20 |Primate Evolution and Ecology | ENGS 93|Statistical Methods in Engineering | 
+|ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> | BIOL 16 |Ecology | 
 |EARS 6 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#earth-sciences-6-environmental-change">Environmental Change</a> | GEOG 36 | <a href="https://github.com/difuse-dartmouth/.github/blob/6141b4e326ccc3319d556edf638512695d0d01df/profile/module-directory.md#geography-36-climate-extremes-on-a-warming-planet">Climate extremes on a warming planet</a> | 
 |EEE 350| <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>| SOCY 34 | <a href="https://github.com/difuse-dartmouth/.github/blob/6141b4e326ccc3319d556edf638512695d0d01df/profile/module-directory.md#sociology-34-health-disparities">Health Disparities</a> | 
 
