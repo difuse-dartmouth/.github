@@ -7,15 +7,16 @@ This page lists all data science module repositories.  Each title is linked to t
 |-------------|-------------|-------------|-------------|
 |ANTH 6 | Introduction to Biological Anthropology|  ENGS 20 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#engineering-20-introduction-to-scientific-computing">Introduction to Scientific Computing| 
 |ANTH 40 |Human Functional Anatomy | ENGS 37| Introduction to Environmental Engineering| 
-|ANTH 20 |Primate Evolution and Ecology | ENGS 93|Statistical Methods in Engineering | 
+|ANTH 20 |<a href="https://github.com/difuse-dartmouth/.github/edit/main/profile/module-directory.md#anthropology-20-primate-evolution-and-ecology">Primate Evolution and Ecology</a> | ENGS 93|Statistical Methods in Engineering | 
 |ASTR 15 |<a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#astronomy-15-stars-and-the-milky-way"> Stars and the Milky Way </a> | BIOL 16 |Ecology | 
 |EARS 6 | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#earth-sciences-6-environmental-change">Environmental Change</a> | GEOG 36 | <a href="https://github.com/difuse-dartmouth/.github/blob/6141b4e326ccc3319d556edf638512695d0d01df/profile/module-directory.md#geography-36-climate-extremes-on-a-warming-planet">Climate extremes on a warming planet</a> | 
 |EEE 350| <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>| SOCY 34 | <a href="https://github.com/difuse-dartmouth/.github/blob/6141b4e326ccc3319d556edf638512695d0d01df/profile/module-directory.md#sociology-34-health-disparities">Health Disparities</a> | 
 
-<!--## <a href="https://github.com/difuse-dartmouth/ANTH6-40_22F">Anthropology 6: Introduction to Biological Anthropology</a>
-  
+## <a href="https://github.com/difuse-dartmouth/ANTH20_W22">Anthropology 20: Primate Evolution and Ecology</a>
+Primate Evolution and Ecology (ANTH 20) is an introductory course in the Anthropology department which provides a broad overview of primate behavioral ecology, with a particular focus on the interactions that exist between primates and their environments and between primates themselves. These vital interactions are viewed through the lens of natural and sexual selection.  In field work with primates, there are two main methods of data collection _focal bout sampling_ and _instantaneous scan sampling_.  The purpose of the module is to have students understand the respective strengths and weaknesses of these methods.  This module is a medium length module (3 days), uses Excel as its main tool and covers data science areas of acquiring data, analyzing data, and drawing conclusions. 
 
--->
+<img src="https://github.com/difuse-dartmouth/ANTH20_W22/blob/5c2c18f26871cf6afc79d94dee42b2fdc46b300a/repository-assets/ANTH-20-Badge.png" style="width: 55vw; min-width: 330px;">
+
 ## <a href="https://github.com/difuse-dartmouth/ASTR15_W21">Astronomy 15: Stars and the Milky Way</a>
 
 Stars and the Milky Way is an introductory astronomy course in the Physics and Astronomy Department. It is a general introduction to astronomy and assumes no particular student background but instructors expect that about a third of students will have some python or coding background. The module aims to introduce students to the way Astrophysicists manipulate data and perform analyses with an emphasis on data visualization and plot interpretation. Students use a sequence of python notebooks to explore, analyze astronomical data. This module uses python notebooks as its main tool and engages students in data analysis, visualization, and drawing conclusions.
