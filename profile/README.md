@@ -2,7 +2,7 @@
 
 <a href="https://github.com/difuse-dartmouth/.github/blob/cdeec8012b276faaa8a1a9856812da57da6cae6f/profile/howto.md"><img src="profile/images/how_to_button_yellow.png" alt="How to use this collection" align="left" style="width:270px"></a>
 <a href="https://github.com/difuse-dartmouth/.github/blob/6141b4e326ccc3319d556edf638512695d0d01df/profile/module-directory.md"><img src="profile/images/directory-button.png" alt="Module Directory" align="left" style="width:270px"></a>
-<a href="https://github.com/difuse-dartmouth/.github/blob/3fc4e065415e2e8fcbb4073230fac56e6fe355bc/profile/about_difuse.md"><img src="profile/images/button.png" alt="About DIFUSE" align="left" style="width:144px"></a>
+<a href="https://github.com/difuse-dartmouth/.github/blob/6dbb57b466f5960ba43ead8dfba1a97b78c1050a/profile/module-directory.md"><img src="profile/images/button.png" alt="About DIFUSE" align="left" style="width:144px"></a>
 
 <!--
 **Here are some ideas to get you started:**
