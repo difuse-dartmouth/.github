@@ -24,6 +24,8 @@ Scott is the chair of the department of mathematics and director of the Dartmout
 
 Laura is a professor of engineering and senior associate dean of faculty development at Dartmouth College. She teaches Introduction to Control Theory, Mechatronics, and Responsible & Ethical Conduct of Research in the Thayer School of Engineering at Dartmouth. Her research interests include system dynamics and controls, robotics, signal processing, and machine intelligence.
 
+### Merve Kursav: DIFUSE post-doctoral associate
+
 # DIFUSE Team Members 
 
 | Name                 | Class Year  | Project(s)                                  |
@@ -56,3 +58,12 @@ Laura is a professor of engineering and senior associate dean of faculty develop
 | Garrett Scott        | 2022        | ASTR 15                                     |
 | William Toth         | 2023        | PSYC 1                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
+
+# Collaborators from other institutions
+| Name                 | Institution | Project(s)                                  |
+|----------------------|-------------|---------------------------------------------|
+| Betul Bilgin          |  UIC       |  Adaptation of existing module              |
+|Chao Wang  | Arizona State University |  EEE-350 |
+| David Guerra | St. Anselm College | PS/CS 211 |
+| Jay Garaycochea | Goucher College |BIO 102 |
+| | |ME 3333-004|
