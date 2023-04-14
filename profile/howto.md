@@ -24,9 +24,9 @@ As you explore these modules, we have tried to provide quick information to allo
 - The length of the module (short, medium, or long)
 - The data science content the module covers
 
-For the last item, we identified six areas of data science that we use to label projects:  aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data.
+For the last item, we identified six areas of data science that we use to label projects:  acquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data.
 
-![Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](https://github.com/difuse-dartmouth/.github/blob/9346468ec1def29edfb2ba51cd1ef8748b918f2f/profile/images/DS-areas_75.png "Six components of data science: aquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
+![Six components of data science: acquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data](https://github.com/difuse-dartmouth/.github/blob/9346468ec1def29edfb2ba51cd1ef8748b918f2f/profile/images/DS-areas_75.png "Six components of data science: acquiring data, managing data, analyzing data, visualizing data, drawing conclusions, and communicating data")
 
 The visual "badge" is based off of the following template:
 
