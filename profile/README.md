@@ -1,15 +1,15 @@
 <a id="Top"></a>
 
-<img src="thumbnail.png" alt="DIFUSE Project at Dartmouth College. Funded by NSF IUSE1917002" width="715" align="center" />
+<img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/thumbnail.png" alt="DIFUSE Project at Dartmouth College. Funded by NSF IUSE1917002" width="715" align="center" />
 
-<a href="#about-difuse"><img src="aboutdifuse.png" alt="About DIFUSE" style="height:50px"/></a>
-<a href="#module-directory"><img src="directory.png" alt="Module Directory" style="height:50px"></a>
-<a href="#inside-a-modules-repo-"><img src="howto.png" alt="How to Use This Site" style="height:50px"></a>
-<a href="#credits"><img src="credits.png" alt="Credits" style="height:50px"/></a>
+<a href="#about-difuse-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/aboutdifuse.png" alt="About DIFUSE" style="height:50px"/></a>
+<a href="#module-directory-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/directory.png" alt="Module Directory" style="height:50px"></a>
+<a href="#inside-a-modules-repo-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/howto.png" alt="How to Use This Site" style="height:50px"></a>
+<a href="#credits-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/credits.png" alt="Credits" style="height:50px"/></a>
 
 ---  
 
-# About DIFUSE <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="backtotop.png" alt="About DIFUSE" style="height:40px" align="right"/></a>
+# About DIFUSE <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
 
 DIFUSE is a National Science Foundation (NSF)-funded project (NSF IUSE-1917002) at <a href="https://www.dartmouth.edu">Dartmouth College</a> aimed at creating opportunities for undergraduates to learn and use data science in introductory STEM courses and beyond.  We work with undergraduates, PhD students, and faculty to develop data science "modules” to integrate into course curriculum.  We offer opportunities for undergraduate and PhD students to apply data science and data visualization through Internships and work in the <a href="https://dali.dartmouth.edu">DALI Lab</a>.  The aim of the DIFUSE project is to help integrate data science modules into introductory STEM and social science curriculum at Dartmouth College.
 
@@ -17,7 +17,7 @@ You can contact the DIFUSE team at <a mailto="difuse@dartmouth.edu">difuse@dartm
 
 ---
 
-# Module Directory <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="backtotop.png" alt="About DIFUSE" style="height:40px" align="right"/></a>
+# Module Directory <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
 This set of repositories consists of more than a dozen modules that introduce some aspect(s) of data science into different introductory courses in STEM and the social sciences. The broad aim of all the modules is to stimulate interest in data science in students and to expose them to how data science can be used in different fields.
 
 - Find below a list of all the DIFUSE data science modules. 
@@ -49,7 +49,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 -->
 ---
 
-# Inside a Module's Repo <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="backtotop.png" alt="About DIFUSE" style="height:40px" align="right"/></a>
+# Inside a Module's Repo <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
 
 When you open a link to a repository you will see something like the image below, which comes from a template we use for all of our module repositories.
 
@@ -100,7 +100,7 @@ This section gives a sense of how the module was initially deployed and details 
 
 ---
 
-# Credits <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="backtotop.png" alt="About DIFUSE" style="height:40px" align="right"/></a>
+# Credits <a href="https://github.com/MunaOnuoha/pagestest/edit/main/README.md#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
 
 ## Investigators
 
