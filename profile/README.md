@@ -1,5 +1,5 @@
 # <a id="Top"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdifuse-dartmouth&label=Total%20number%20of%20visitors%20to%20this%20page&labelColor=%2300693e&countColor=%23dce775&style=flat-square&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fdifuse-dartmouth&label=Visitors%20to%20this%20page%20today&labelColor=%2300693e&countColor=%23dce775&style=flat-square&labelStyle=upper)
 
 <img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/thumbnail.png" alt="DIFUSE Project at Dartmouth College. Funded by NSF IUSE1917002" width="715" align="center" />
 
