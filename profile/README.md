@@ -27,26 +27,22 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 ## DIFUSE Modules
 
-| Subject | Module Name | Coding Language + Data Science Components | Download Link |
+| Subject | Module Name | Host Platform & Data Science Components | Download Link |
 |-------------|-------------|-------------|-------------|
-| Mechanical Engineering | <a>Modeling First Order Systems with Footage of a Small Motorized Cart</a> | | <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip">download</a>|
-| Biology |<a href="https://github.com/difuse-dartmouth/BIOSAT_W23">Exploring the Relationships between Land Use, Deer Population, and Lyme Cases in Four U.S. States</a> || <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip">download</a>|
-| Energy & Geo-Environmental Engineering | <a href="https://github.com/difuse-dartmouth/F22_Wind_Data_CSV">Wind Power Equations</a> | | download |
-| Electrical Engineering | <a href="https://github.com/difuse-dartmouth/EEE-350_F22">Random Signal Analysis</a> | | download|
-| Anthropology | <a href="https://github.com/difuse-dartmouth/ANTH20_W22">Primate Evolution and Ecology</a>| | download |
-| Anthropology | <a href="https://github.com/difuse-dartmouth/ANTH06-40_22F">Biological Anthropology</a> | | download |
-| Environmental Engineering | <a href="https://github.com/difuse-dartmouth/ENGS37_W22">Air Quality Analysis</a> |  | download |
-| Sociology | [Sociology Health Outcomes](https://github.com/difuse-dartmouth/sociology-health-outcomes) | | download |
-<!--
-| Engineering | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>| <img src="https://github.com/difuse-dartmouth/EEE-350_F22/blob/1a944325e0aae484fc6be40236b89899d8dd2387/repository-assets/eee350-bar.png" style="50vw">|  <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip">download</a>|
-| Environmental Studies |<a href="https://github.com/difuse-dartmouth/.github/edit/main/profile/module-directory.md#anthropology-20-primate-evolution-and-ecology">Primate Evolution and Ecology</a> |<img src="https://github.com/difuse-dartmouth/ANTH20_W22/blob/3560278f30d160d8f6ce9771e3140db876fbdae0/repository-assets/anth20-bar.png" style="width:50vw;">| <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip">download</a>|
-| Statistics in Engineering | Module Name | Data Science Components | Download Link |
-| Astronomy |-------------|-------------|-------------|
-| Biology | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>| <img src="https://github.com/difuse-dartmouth/EEE-350_F22/blob/1a944325e0aae484fc6be40236b89899d8dd2387/repository-assets/eee350-bar.png" style="50vw">|  <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip">download</a>|
-| Geography | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>| <img src="https://github.com/difuse-dartmouth/EEE-350_F22/blob/1a944325e0aae484fc6be40236b89899d8dd2387/repository-assets/eee350-bar.png" style="50vw">|  <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip">download</a>|
-| Psychology | <a href="https://github.com/difuse-dartmouth/.github/blob/ab9773d47c6e361651e0d2b27d590ad01eb1e134/profile/module-directory.md#electrical-engineering-350-random signal analysis">Random Signal Analysis</a>| <img src="https://github.com/difuse-dartmouth/EEE-350_F22/blob/1a944325e0aae484fc6be40236b89899d8dd2387/repository-assets/eee350-bar.png" style="50vw">|  <a href="https://github.com/difuse-dartmouth/EEE350_F22/archive/refs/heads/main.zip">download</a>|
-| Earth Science |<a href="https://github.com/difuse-dartmouth/.github/edit/main/profile/module-directory.md#anthropology-20-primate-evolution-and-ecology">Primate Evolution and Ecology</a> |<img src="https://github.com/difuse-dartmouth/ANTH20_W22/blob/3560278f30d160d8f6ce9771e3140db876fbdae0/repository-assets/anth20-bar.png" style="width:50vw;">| <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip">download</a>|
--->
+| Electrical Engineering | <a href="https://github.com/difuse-dartmouth/engineering-airline-analysis">engineering-airline-analysis</a>  | | <a href="https://github.com/difuse-dartmouth/engineering-airline-analysis/archive/refs/heads/main.zip">download</a>|
+| Energy & Environmental Engineering | <a href="https://github.com/difuse-dartmouth/wind-speed-power-analysis">wind-speed-power-analysis</a>  | | <a href="https://github.com/difuse-dartmouth/wind-speed-power-analysis/archive/refs/heads/main.zip">download</a>|
+| Mechanical Engineering | <a href="https://github.com/difuse-dartmouth/engineering-analyze-first-order-systems">engineering-analyze-first-order-systems</a>  | | <a href="https://github.com/difuse-dartmouth/engineering-analyze-first-order-systems/archive/refs/heads/main.zip">download</a>|       
+| Anthropology | <a href="https://github.com/difuse-dartmouth/anthropology-behavior-sampling">anthropology-behavior-sampling</a>  | | <a href="https://github.com/difuse-dartmouth/anthropology-behavior-sampling/archive/refs/heads/main.zip">download</a>|
+| Anthropology | <a href="https://github.com/difuse-dartmouth/anthropology-footprint-collect-analyze">anthropology-footprint-collect-analyze</a>  | | <a href="https://github.com/difuse-dartmouth/anthropology-footprint-collect-analyze/archive/refs/heads/main.zip">download</a>|
+| Environmental Engineering | <a href="https://github.com/difuse-dartmouth/engineering-visualize-air-quality">engineering-visualize-air-quality</a> | | <a href="https://github.com/difuse-dartmouth/engineering-visualize-air-quality/archive/refs/heads/main.zip">download</a>|
+| Geography | <a href="https://github.com/difuse-dartmouth/geography-extreme-climate-events">geography-extreme-climate-events</a>  | | <a href="https://github.com/difuse-dartmouth/geography-extreme-climate-events/archive/refs/heads/main.zip">download</a>|
+| Astronomy | <a href="https://github.com/difuse-dartmouth/astronomy-celestial-bodies">astronomy-celestial-bodies</a>  | | <a href="https://github.com/difuse-dartmouth/astronomy-celestial-bodies/archive/refs/heads/main.zip">download</a>|
+| Engineering | <a href="https://github.com/difuse-dartmouth/engineering-glucose-model-ode">engineering-glucose-model-ode</a>  | | <a href="https://github.com/difuse-dartmouth/engineering-glucose-model-ode/archive/refs/heads/main.zip">download</a>|
+| Statistics in Engineering | <a href="https://github.com/difuse-dartmouth/engineering-statistics-in-R">engineering-statistics-in-R</a>  | | <a href="https://github.com/difuse-dartmouth/engineering-statistics-in-R/archive/refs/heads/main.zip">download</a>|
+| Sociology | <a href="https://github.com/difuse-dartmouth/sociology-health-outcomes">sociology-health-outcomes</a>  | | <a href="https://github.com/difuse-dartmouth/sociology-health-outcomes/archive/refs/heads/main.zip">download</a>|
+| Ecology | <a href="https://github.com/difuse-dartmouth/ecology-eddy-covariance">ecology-eddy-covariance</a>  | | <a href="https://github.com/difuse-dartmouth/ecology-eddy-covariance/archive/refs/heads/main.zip">download</a>|
+| Earth Science | <a href="https://github.com/difuse-dartmouth/earth-science-environmental-change">earth-science-environmental-change</a>  | | <a href="https://github.com/difuse-dartmouth/earth-science-environmental-change/archive/refs/heads/main.zip">download</a>|
+| Environmental Studies | <a href="https://github.com/difuse-dartmouth/covid-wave-environmental-map-regression">covid-wave-environmental-map-regression</a>  | | <a href="https://github.com/difuse-dartmouth/covid-wave-environmental-map-regression/archive/refs/heads/main.zip">download</a>| 
 ---
 
 # Inside a Module's Repo <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
@@ -95,7 +91,9 @@ Scott is the chair of the department of mathematics and director of the Dartmout
 
 Laura is a professor of engineering and senior associate dean of faculty development at Dartmouth College. She teaches Introduction to Control Theory, Mechatronics, and Responsible & Ethical Conduct of Research in the Thayer School of Engineering at Dartmouth. Her research interests include system dynamics and controls, robotics, signal processing, and machine intelligence.
 
-### Merve Kursav: DIFUSE post-doctoral associate
+### Merve Kursav: DIFUSE Post-Doctoral Associate
+
+Merve is a research associate in the mathematics department and works at DIFUSE project as a post-doc. She received a Ph.D. degree in Mathematics Education with a minor in Measurement and Quantitative Methods. Her research focuses on the experiences and cognition of teachers and instructors who engage historically marginalized students in mathematics classes, as well as the mechanisms that impact students' STEM retention and success in STEM fields. She has spent much of her career in all aspects of K-16 mathematics and STEM education. 
 
 ## DIFUSE Team Members
 
