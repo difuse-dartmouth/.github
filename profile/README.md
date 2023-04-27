@@ -40,7 +40,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 | Astronomy | <a href="https://github.com/difuse-dartmouth/astronomy-celestial-bodies">astronomy-celestial-bodies</a>  | | <a href="https://github.com/difuse-dartmouth/astronomy-celestial-bodies/archive/refs/heads/main.zip">download</a>|
 | Engineering | <a href="https://github.com/difuse-dartmouth/engineering-glucose-model-ode">engineering-glucose-model-ode</a>  | | <a href="https://github.com/difuse-dartmouth/engineering-glucose-model-ode/archive/refs/heads/main.zip">download</a>|
 | Statistics in Engineering | <a href="https://github.com/difuse-dartmouth/engineering-statistics-in-R">engineering-statistics-in-R</a>  | | <a href="https://github.com/difuse-dartmouth/engineering-statistics-in-R/archive/refs/heads/main.zip">download</a>|
-| Sociology | <a href="https://github.com/difuse-dartmouth/sociology-health-outcomes">sociology-health-outcomes</a>  | | <a href="https://github.com/difuse-dartmouth/sociology-health-outcomes/archive/refs/heads/main.zip">download</a>|
+| Sociology | <a href="https://github.com/difuse-dartmouth/sociology-health-outcomes">sociology-health-outcomes</a>  | <img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/SOCY-34-badge.png" style="width:300pt">| <a href="https://github.com/difuse-dartmouth/sociology-health-outcomes/archive/refs/heads/main.zip">download</a>|
 | Ecology | <a href="https://github.com/difuse-dartmouth/ecology-eddy-covariance">ecology-eddy-covariance</a>  | | <a href="https://github.com/difuse-dartmouth/ecology-eddy-covariance/archive/refs/heads/main.zip">download</a>|
 | Earth Science | <a href="https://github.com/difuse-dartmouth/earth-science-environmental-change">earth-science-environmental-change</a>  | | <a href="https://github.com/difuse-dartmouth/earth-science-environmental-change/archive/refs/heads/main.zip">download</a>|
 | Environmental Studies | <a href="https://github.com/difuse-dartmouth/covid-wave-environmental-map-regression">covid-wave-environmental-map-regression</a>  | | <a href="https://github.com/difuse-dartmouth/covid-wave-environmental-map-regression/archive/refs/heads/main.zip">download</a>| 
@@ -48,27 +48,17 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 # Inside a Module's Repo <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
 
-When you open a link to a repository you will see something like the image below, which comes from a template we use for all of our module repositories. At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.  The image identifies the project, the instructor, and the course the module is for.  Scrolling down, you'll see a brief module description, the creative commons license that applies to the module, a badge, and a link to the module materials.
-
+When you open a link to a repository you will see something like the image below, which comes from a template we use for all of our module repositories. At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.
 <img src="https://github.com/difuse-dartmouth/.github/blob/6f2c62ac71f4767c64f667573d72e30509fcd18e/profile/images/DIFUSE-sample-page.png" alt="Sample opening page for a DIFUSE module." style="height:600px" align="center"/>
 
-As you explore these modules, we have tried to provide quick information to allow you to assess the contents and scope of the module so you can focus on the ones that are most salient to your goals. For each module we provide a visual indication of these variables that include:
-- The type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools)
-- What is the level of the course that the module was designed for (Introductory, Mid-level, Advanced)
-- The length of the module (short, medium, or long)
-- The data science content the module covers
+This README contains a more complete summary of the module, identifying the instructor and the course it was originally designed for. Other images included are the creative commons license, a download link, and module badge. Finally, the README describes the module's objectives, expectations from students, and a class schedule with links to specific module components.
 
-## Module materials page <a href="https://youtu.be/5BbLNQKHWwk" target="_blank" rel="noopener noreferrer"><img src="https://github.com/difuse-dartmouth/.github/blob/3c958c86ba876025eb5e3109933014e0276d81d6/profile/images/walkthrough-materials-icon.png" alt="Play the module materials page video" style="width:2in" align="left"></a>
-
-Clicking the module materials link takes you to a different README file in the _completed_module_ subdirectory.  For each module, you will see several sections.
-### Primary Objectives
-This section gives the top level objectives for the module in the context of the rest of the course.
-### Student expectations
-Here we briefly describe what the instructors can expect of the students.  For example, what background are students likely to have? have they taken prerequisite courses?  Is the course mostly first-year students or a mixture of years?
-### Learning Objectives
-Each module has a set of learning objectives which we list here.
-### Module outline and calendar
-This section gives a sense of how the module was initially deployed and details when different items happen, how much time students have to complete them, and other details.
+## Module Badge
+The module badge is a visual representation of the contents and scope of the module. It highlights
+- the type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools),
+- the level of the course that the module was designed for (Introductory, Mid-level, Advanced),
+- the length of the module (short, medium, or long), and
+- the data science content the module covers
 
 ---
 
