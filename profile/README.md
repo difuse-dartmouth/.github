@@ -76,7 +76,7 @@ Lorie is the faculty director of DALI Lab and director of the Digital Arts Progr
 
 ### Scott Pauls: Principal Investigator
 
-Scott is the chair of the department of mathematics and director of the Dartmouth Center for the Advancement of Learning (DCAL). Professor Pauls' research in mathematics focuses on building and analyzing network models for social, biological, and physical systems. In his theoretical work, he aims to find network theoretic signatures for outcomes of dynamical processes. Recently, he has been able to apply these techniques to systems in political science, economics, neuroscience, and environmental science.
+Scott is a professor in the department of mathematics and Director of the Dartmouth Center for the Advancement of Learning (DCAL). Professor Pauls' research in mathematics focuses on building and analyzing network models for social, biological, and physical systems. In his theoretical work, he aims to find network theoretic signatures for outcomes of dynamical processes. Recently, he has been able to apply these techniques to systems in political science, economics, neuroscience, and environmental science.
 
 ### Laura Ray: Principal Investigator
 
