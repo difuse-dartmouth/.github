@@ -6,7 +6,7 @@
 <a href="#about-difuse-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/aboutdifuse.png" alt="About DIFUSE" style="height:50px"/></a>
 <a href="#module-directory-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/directory.png" alt="Module Directory" style="height:50px"></a>
 <a href="#inside-a-modules-repo-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/howto.png" alt="How to Use This Site" style="height:50px"></a>
-<a href="#credits-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/credits.png" alt="Credits" style="height:50px"/></a>
+<a href="#credits-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/creditscontact.png" alt="Credits" style="height:50px"/></a>
 
 ---  
 
@@ -65,6 +65,8 @@ The module badge on the splash image is a visual representation of the contents 
 ---
 
 # Credits <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
+
+You can contact the DIFUSE team at <a mailto="difuse@dartmouth.edu">difuse@dartmouth.edu</a>.
 
 ## Investigators
 
