@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this repository as follows:"
+authors:
+- given-names: "Petra"
+  family-names: "Bonfert-Taylor"
+- given-names: "Merve"
+  family-names: "Kursav"
+  orcid: "https://orcid.org/0000-0001-8334-3866"
+- given-names: "Lorie"
+  family-names: "Loeb"
+  orcid: "https://orcid.org/0000-0002-4934-1864"
+- given-names: "Scott"
+  family-names: "Pauls"
+  orcid: "https://orcid.org/0000-0002-0281-2868"
+- given-names: "Laura"
+  family-names: "Ray"
+title: "Dartmouth DIFUSE Project"
+version: 1.0
+doi: 10.5281/zenodo.632463532
+date-released: 2023-5-12
+url: "https://github.com/difuse-dartmouth"
