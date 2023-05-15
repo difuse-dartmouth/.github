@@ -52,8 +52,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 When you open a link to a repository you will see something like the image below, which comes from a template we use for all of our module repositories. At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.
 
-## Image work in progress
-<img src="https://github.com/difuse-dartmouth/.github/blob/6f2c62ac71f4767c64f667573d72e30509fcd18e/profile/images/DIFUSE-sample-page" alt="Sample opening page for a DIFUSE module." style="height:600px" align="center"/>
+<img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/difuse-module-structure-new.png" alt="Sample opening page for a DIFUSE module." width="800pt" align="center"/>
 
 This README contains a more complete summary of the module, identifying the instructor and the course it was originally designed for. Other images included are the creative commons license, a download link, and module badge. Finally, the README describes the module's objectives, expectations from students, and a class schedule with links to specific module components.
 
