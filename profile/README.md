@@ -95,31 +95,37 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 
 | Name                 | Class Year  | Project(s)                                  |
 |----------------------|-------------|---------------------------------------------|
-| Sabrina Barton       | 2023        | ANTH 20                                     |
+| Garret Andreine      | 2022        | PSYC 1                                     |
+| Sabrina Barton       | 2024        | ANTH 20                                      |
 | Elisabeth Baumann    | 2022        | EARS 6, GEOG 36                             |
-| Andrew Bean          | 2023        | ENGS 37, Data Analysis, Bio-Satellite       |
-| James Busch          | GR          | ASTR 15, ENVS 6                             |
-| Sonal Butala         | 2022        |                                             |
-| William Chen         | 2023        | ENVS 3                                      |
-| Pierre Desvallons    | 2021        | PSYC 1                                      |
-| Joeseph Gyorda       | 2022, GR | Workshop, Deployment team, EEE 350          |
+| Andrew Bean          | 2023        | ENGS 37, Data Analysis, Bio-Satellite, Astro-Imaging       |
+| James Busch          | GR          | ASTR 15, ENVS 3                           |
+| Sonal Butala         | 2022        | DALI                                           |
+| William Chen         | 2022        | ENVS 3                                      |
+| Jackeline Corona     | 2022        | ENGS 20                                    |
+| Pierre Desvallons    | 2021        | PSYC 1, BIOL 16                                      |
+| Joseph Gyorda        | 2022, GR    | Workshop, Deployment, EEE 350          |
+| Carrie Harris        | GR          | Astro-Imaging                           |
 | Vivek Hazari         | 2022        | PSYC 1, MATH 23                             |
 | Taylor Hickey        | 2023        | Project Manager                             |
-| Luis Hinojosa        | 2024        | EGEE 438                                    |
+| Luis Hinojosa        | 2024        | EGEE 438, Deployment                                    |
 | Pepper Huang         | GR          | PSYC 1                                      |
-| Osman Khan           | 2025        | SOCY 34, BIOL 16, Data Visualization Fellow |
-| May Oo Khine         | 2023        | Workshop, Bio-Satelitte                     |
+| Osman Khan           | 2021        | SOCY 34, BIOL 16, Data Visualization Fellow |
+| May Oo Khine         | 2023        | Workshop, Bio-Satellite                   |
 | Sarah Korb           | 2022        | ENGS 93                                     |
 | Katherine Lasonde    | 2023        | SOCY 34                                     |
-| Sarah Lee            | GR          | EARS 6                                      |
-| Benjamin Levesque    | 2024        | EEE 350, Github Team                        |
-| Quang Nguyen         | GR          | PSYC 1                                      |
-| Emma Nguyen          | 2025        | Bio-Satelitte                               |
-| Clement Nyanhonho    | GR          | MATH 23                                     |
+| Sarah Lee            | GR          | EARS 6, GEOG 36                                      |
+| Benjamin Levesque    | 2024        | EEE 350, Github, Project Manager                        |
+| Kyra McLaughlin      | 2023        | SOCY 34                    |
+| Phillip Mulford      | GR          | System Modeling                       |
+| Quang Nguyen         | GR          | BIOL 16                                     |
+| Emma Nguyen          | 2025        | Bio-Satellite, Workshop                              |
+| Clement Nyanhango    | GR          | MATH 23, ASTR 15                                    |
 | Ayobami Ogunmolasuyi | GR          | PSYC 1                                      |
-| Muna Onuoha          | 2025        | EGEE 438, Github Team                       |
-| Monika Roznere       | GR          | ENGS 37,                                    |
-| Logan Sankey         | 2020        | ANTH 6, ANTH  20,                           |
+| Muna Onuoha          | 2025        | EGEE 438, Github                       |
+| Alexander Robertson  | 2023       | ENGS 93                                   |
+| Monika Roznere       | GR          | ENGS 37, ANTH 6/40                                    |
+| Logan Sankey         | 2020        | ANTH 6/40, ANTH  20, ENGS 20, System Modeling         |
 | Garrett Scott        | 2022        | ASTR 15                                     |
 | William Toth         | 2023        | PSYC 1                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
@@ -127,8 +133,9 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 ## Collaborators from other institutions
 | Name                 | Institution | Project(s)                                  |
 |----------------------|-------------|---------------------------------------------|
-| Betul Bilgin          |  UIC       |  Adaptation of existing module              |
-|Chao Wang  | Arizona State University |  EEE-350 |
-| David Guerra | St. Anselm College | PS/CS 211 |
-| Jay Garaycochea | Goucher College |BIO 102 |
-| | |ME 3333-004|
+| Betul Bilgin  | University of Illinois at Chicago |  Adaptation of existing module  |
+| Chao Wang  | Arizona State University | EEE 350 |
+| David Guerra | St. Anselm College | Bio-Satellite |
+| Jay Garaycochea | Goucher College | Bio-Satellite |
+| Fernando Soto  | Penn State University | EGEE 438 |
+| - | Texas Tech University | System Modeling |
