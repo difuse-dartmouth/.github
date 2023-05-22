@@ -95,40 +95,42 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 
 | Name                 | Class Year  | Project(s)                                  |
 |----------------------|-------------|---------------------------------------------|
-| Garret Andreine      | 2022        | PSYC 1                                     |
-| Sabrina Barton       | 2024        | ANTH 20                                      |
-| Elisabeth Baumann    | 2022        | EARS 6, GEOG 36                             |
-| Andrew Bean          | 2023        | ENGS 37, Data Analysis, Bio-Satellite, Astro-Imaging       |
-| James Busch          | GR          | ASTR 15, ENVS 3                           |
+| Garret Andreine      | 2022        | conversation-sentiment-analysis*                                     |
+| Sabrina Barton       | 2024        | anthropology-behavior-sampling                                      |
+| Elisabeth Baumann    | 2022        | earth-science-environmental-change, geography-extreme-climate-events                             |
+| Andrew Bean          | 2023        | engineering-visualize-air-quality, biology-remote-sensing, astro-imaging       |
+| James Busch          | GR          | astronomy-celestial-bodies, covid-wave-environmental-map-regression*                           |
 | Sonal Butala         | 2022        | DALI                                           |
-| William Chen         | 2022        | ENVS 3                                      |
-| Jackeline Corona     | 2022        | ENGS 20                                    |
-| Pierre Desvallons    | 2021        | PSYC 1, BIOL 16                                      |
-| Joseph Gyorda        | 2022, GR    | Workshop, Deployment, EEE 350          |
-| Carrie Harris        | GR          | Astro-Imaging                           |
-| Vivek Hazari         | 2022        | PSYC 1, MATH 23                             |
+| William Chen         | 2022        | covid-wave-environmental-map-regression*                                      |
+| Jackeline Corona     | 2022        | engineering-glucose-model-ode                                    |
+| Pierre Desvallons    | 2021        | conversation-sentiment-analysis*, ecology-eddy-covariance                                      |
+| Joseph Gyorda        | 2022, GR    | Workshop, Deployment, engineering-airline-analysis          |
+| Carrie Harris        | GR          | astro-imaging                           |
+| Vivek Hazari         | 2022        | conversation-sentiment-analysis*, differential-equations*                             |
 | Taylor Hickey        | 2023        | Project Manager                             |
-| Luis Hinojosa        | 2024        | EGEE 438, Deployment                                    |
-| Pepper Huang         | GR          | PSYC 1                                      |
-| Osman Khan           | 2021        | SOCY 34, BIOL 16, Data Visualization Fellow |
-| May Oo Khine         | 2023        | Workshop, Bio-Satellite                   |
-| Sarah Korb           | 2022        | ENGS 93                                     |
-| Katherine Lasonde    | 2023        | SOCY 34                                     |
-| Sarah Lee            | GR          | EARS 6, GEOG 36                                      |
-| Benjamin Levesque    | 2024        | EEE 350, Github, Project Manager                        |
-| Kyra McLaughlin      | 2023        | SOCY 34                    |
-| Phillip Mulford      | GR          | System Modeling                       |
-| Quang Nguyen         | GR          | BIOL 16                                     |
-| Emma Nguyen          | 2025        | Bio-Satellite, Workshop                              |
-| Clement Nyanhango    | GR          | MATH 23, ASTR 15                                    |
-| Ayobami Ogunmolasuyi | GR          | PSYC 1                                      |
-| Muna Onuoha          | 2025        | EGEE 438, Github                       |
-| Alexander Robertson  | 2023       | ENGS 93                                   |
-| Monika Roznere       | GR          | ENGS 37, ANTH 6/40                                    |
-| Logan Sankey         | 2020        | ANTH 6/40, ANTH  20, ENGS 20, System Modeling         |
-| Garrett Scott        | 2022        | ASTR 15                                     |
-| William Toth         | 2023        | PSYC 1                                      |
+| Luis Hinojosa        | 2024        | wind-speed-power-analysis, Deployment                                    |
+| Pepper Huang         | GR          | conversation-sentiment-analysis*                                      |
+| Osman Khan           | 2021        | sociology-health-outcomes, ecology-eddy-covariance, Data Visualization Fellow |
+| May Oo Khine         | 2023        | Workshop, biology-remote-sensing                   |
+| Sarah Korb           | 2022        | engineering-statistics-in-R                                     |
+| Katherine Lasonde    | 2023        | sociology-health-outcomes                                     |
+| Sarah Lee            | GR          | earth-science-environmental-change, geography-extreme-climate-events                                      |
+| Benjamin Levesque    | 2024        | engineering-airline-analysis, Github, Project Manager                        |
+| Kyra McLaughlin      | 2023        | sociology-health-outcomes                    |
+| Phillip Mulford      | GR          | engineering-analyze-first-order-systems                       |
+| Quang Nguyen         | GR          | ecology-eddy-covariance                                     |
+| Emma Nguyen          | 2025        | biology-remote-sensing, Workshop                              |
+| Clement Nyanhango    | GR          | differential-equations*, astronomy-celestial-bodies                                    |
+| Ayobami Ogunmolasuyi | GR          | conversation-sentiment-analysis*                                      |
+| Muna Onuoha          | 2025        | wind-speed-power-analysis, Github                       |
+| Alexander Robertson  | 2023        | engineering-statistics-in-R                                   |
+| Monika Roznere       | GR          | engineering-visualize-air-quality, anthropology-footprint-collect-analyze                                    |
+| Logan Sankey         | 2020        | anthropology-footprint-collect-analyze, anthropology-behavior-sampling, engineering-glucose-model-ode, engineering-analyze-first-order-systems         |
+| Garrett Scott        | 2022        | astronomy-celestial-bodies                                     |
+| William Toth         | 2023        | conversation-sentiment-analysis*                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
+
+-* This module is not available on the GitHub at this time
 
 ## Collaborators from other institutions
 | Name                 | Institution | Project(s)                                  |
