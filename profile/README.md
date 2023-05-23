@@ -130,7 +130,7 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 | William Toth         | 2023        | conversation-sentiment-analysis*                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
 
--* This module is not available on the GitHub at this time
+-* This module is not available on GitHub at this time
 
 ## Collaborators from other institutions
 | Name                 | Institution | Project(s)                                  |
@@ -140,4 +140,4 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 | David Guerra | St. Anselm College | Bio-Satellite |
 | Jay Garaycochea | Goucher College | Bio-Satellite |
 | Fernando Soto  | Penn State University | EGEE 438 |
-| - | Texas Tech University | System Modeling |
+| Tanushree Roy | Texas Tech University | System Modeling |
