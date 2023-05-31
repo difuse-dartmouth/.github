@@ -125,7 +125,7 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 | Muna Onuoha          | 2025        | wind-speed-power-analysis, Github                       |
 | Alexander Robertson  | 2023        | engineering-statistics-in-R                                   |
 | Monika Roznere       | GR          | engineering-visualize-air-quality, anthropology-footprint-collect-analyze                                    |
-| Logan Sankey         | 2020        | anthropology-footprint-collect-analyze, anthropology-behavior-sampling, engineering-glucose-model-ode, engineering-analyze-first-order-systems         |
+| Logan Sankey         | 2020        | anthropology-footprint-collect-analyze, anthropology-behavior-sampling, engineering-glucose-model-ode, engineering-analyze-first-order-systems, wind-speed-power-analysis         |
 | Garrett Scott        | 2022        | astronomy-celestial-bodies                                     |
 | William Toth         | 2023        | conversation-sentiment-analysis*                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
