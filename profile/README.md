@@ -51,7 +51,10 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 
 # Inside a Module's Repo <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
-<img src ="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/how-to-homepage.png" height="400pt" alt="download"/>
+
+<img src ="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/how-to-homepage.png" widtht="400pt" alt="download"/>
+
+All the modules have been standardised this way for a better user experience
 ---
 
 # Credits <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
