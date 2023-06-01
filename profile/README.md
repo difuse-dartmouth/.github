@@ -51,18 +51,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 
 
 # Inside a Module's Repo <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
-
-When you open a link to a repository you will see something like the image below, which comes from a template we use for all of our module repositories. At the top you'll see a directory with subfolders and files.  But the most important thing is the "README" file that is shown below.
-
-<img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/difuse-module-structure-new.png" alt="Sample opening page for a DIFUSE module." width="800pt" align="center"/>
-
-This README contains a more complete summary of the module, identifying the instructor and the course it was originally designed for. Other images included are the creative commons license, a download link, and module badge. Finally, the README describes the module's objectives, expectations from students, and a class schedule with links to specific module components.
-
-## Module Badge
-The module badge on the splash image is a visual representation of the contents and scope of the module. It highlights
-- the type of computational tools used in the module (e.g. Excel, Python, R, MATLAB, Google tools), and 
-- the data science content the module covers
-
+<img src ="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/how-to-homepage.png" height="400pt" alt="download"/>
 ---
 
 # Credits <a href="#Top"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/backtotop.png" alt="BacktoTop" style="height:40px" align="right"/></a>
