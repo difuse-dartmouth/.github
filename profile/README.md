@@ -135,7 +135,7 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 ## Collaborators from other institutions
 | Name                 | Institution | Course Name at Institution   | DIFUSE Project name    |
 |----------------------|-------------|-----------------------------|-----------------------------|
-| Betul Bilgin  | University of Illinois at Chicago | Adaptation of existing module |
+| Betul Bilgin  | University of Illinois at Chicago | - | Adaptation of existing module |
 | Chao Wang  | Arizona State University | EEE 350 | engineering-airline-analysis |
 | David Guerra | St. Anselm College | PS/CS 211 | biology-remote-sensing |
 | Jay Garaycochea | Goucher College | BIO 102 | biology-remote-sensing |
