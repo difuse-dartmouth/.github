@@ -26,7 +26,7 @@ This set of repositories consists of more than a dozen modules that introduce so
 - Find below a list of all the DIFUSE data science modules. 
 - Each module is stored in a separate repository with more information on its components and use. 
 - Access a repository by clicking on its Module Name
-- or  download now by clicking on its Download Link
+- or  download the entire module now by clicking on its Download Link
 
 ## DIFUSE Modules
 
