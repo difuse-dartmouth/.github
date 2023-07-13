@@ -6,7 +6,10 @@
 <a href="#about-difuse-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/aboutdifuse.png" alt="About DIFUSE" style="height:50px"/></a>
 <a href="#module-directory-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/directory.png" alt="Module Directory" style="height:50px"></a>
 <a href="#inside-a-modules-repo-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/howto.png" alt="How to Use This Site" style="height:50px"></a>
-<a href="#credits-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/creditscontact.png" alt="Credits" style="height:50px"/></a>
+<a href="#credits-"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/creditscontact.png" alt="Credits" style="height:50px"/></a><br>
+<a href="https://forms.gle/V1LwAMCc19nHG1GA9"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/let-us-know.png" alt="Credits" style="height:50px"/></a>
+<a href="https://forms.gle/xMUme13jVTbens9F6"><img src="https://github.com/difuse-dartmouth/.github/blob/main/profile/images/report-a-problem.png" alt="Report a Problem" style="height:50px"></a>
+
 
 ---  
 
@@ -16,7 +19,9 @@ DIFUSE is a National Science Foundation (NSF)-funded project (NSF IUSE-1917002) 
 
 To evaluate the impact of the modules and our work, we have developed a [Survey of Attitudes towards Data Science](https://github.com/difuse-dartmouth/Survey-of-Attitudes-towards-Data-Science) and host data and [other research materials related to the project](https://github.com/difuse-dartmouth/difuse-research).
 
-You can contact the DIFUSE team at <a mailto="difuse@dartmouth.edu">difuse@dartmouth.edu</a>.
+You can contact the DIFUSE team at <a mailto="difuse@dartmouth.edu">difuse@dartmouth.edu</a>.  If you find a problem with one of the repositories, click the "report a problem" button.
+
+
 
 ---
 
