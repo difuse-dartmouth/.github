@@ -100,7 +100,7 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 | Jackeline Corona     | 2022        | engineering-glucose-model-ode                                    |
 | Pierre Desvallons    | 2021        | conversation-sentiment-analysis*, ecology-eddy-covariance                                      |
 | Joseph Gyorda        | 2022, GR    | Workshop, Deployment, engineering-airline-analysis          |
-| Carrie Harris        | GR          | astro-imaging                           |
+| Carrie Harris        | GR          | astronomy-imaging                           |
 | Vivek Hazari         | 2022        | conversation-sentiment-analysis*, differential-equations*                             |
 | Taylor Hickey        | 2023        | Project Manager                             |
 | Luis Hinojosa        | 2024        | wind-speed-power-analysis, Deployment                                    |
