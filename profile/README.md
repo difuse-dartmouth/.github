@@ -124,6 +124,7 @@ Merve is a research associate in the mathematics department and works at DIFUSE 
 | Garrett Scott        | 2022        | astronomy-celestial-bodies                                     |
 | William Toth         | 2023        | conversation-sentiment-analysis*                                      |
 | Tiffany Yu           | 2021        | Project Manager                             |
+| Rahul Gupta          | 2026        | covid-wave-environmental-map-regression, anthropology-behavior-sampling, engineering-airline-analysis, ecology-eddy-covariance, sociology-health-outcomes, engineering-statistics-in-R, engineering-visualize-air-quality                             |
 
 -* This module is not available on GitHub at this time
 
